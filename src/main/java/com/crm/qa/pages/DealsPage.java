@@ -6,6 +6,7 @@ public class DealsPage {
   {
 	  System.out.println("Deals Page");
 	  System.out.println("Deals1 page");
+	  System.out.println("Deals3 page");
 
 }
 
