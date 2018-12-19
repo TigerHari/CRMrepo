@@ -2,6 +2,10 @@ package com.crm.qa.pages;
 
 public class DealsPage {
   
-  System.out.println("Deals page");
+  public void Dealspage()
+  {
+	  System.out.println("Deals Page");
+
+}
 
 }
